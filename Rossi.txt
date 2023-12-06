@@ -1,4 +1,4 @@
 Full Stack 
 serveless computing
-micro offices
+micro services
 low code and non-code development
