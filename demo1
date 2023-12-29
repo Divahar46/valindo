@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <html>
+        <title>BIO DATA</title>
+        <meta charset="utf-8">
+        </head>
+        <body style="background-color:  blue;">
+            <h1>BIO DATA</h1>
+            <h2>Name : <M.Divahar></h2>
+            <h3>Mail Id : divaharm10@gmail.com</h3>
+            <h4>Mobile no : 6380033686</h4>
+            <h5>D.O.B : 04-09-2000</h5>
+            <h6>Age : 23</h6>
+            <h7>Father Name : Muthukrishnan</h7>
+            <h8>Mother Name : Jeyalakshmi</h8>
+            <h9>Nationality : Indian</h9>
+            <h10>Language Know : Tamil, English, Hindi</h10>
+         </body>
+     </html>   
